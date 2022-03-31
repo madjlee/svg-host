@@ -1372,13 +1372,15 @@
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Information ]]></tspan><tspan
-        id="taskmodel-tspan26"
+        id="Information Gathering"
+        cursor='pointer'
         x="0"
         y="32"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[  Gathering]]></tspan><tspan
-        id="taskmodel-tspan27"
+        id="Information Gathering"
+        cursor='pointer'
         x="0"
         y="96"
         font-weight="400"
@@ -1872,10 +1874,12 @@
         font-weight="400"
         stroke-width="0"
       ><![CDATA[    Exam ]]></tspan></text></g><g
-    id="taskmodel-nurse-provider"
+    id="Nurse Provider"
+    cursor="pointer"
     transform="translate(332.184177 118.382603)"
   ><rect
-      id="taskmodel-nurse-provider2"
+      id="Nurse Provider"
+      cursor="pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -1886,7 +1890,8 @@
       stroke-width="2"
       stroke-miterlimit="3"
     /><text
-      id="taskmodel-nurse-provider3"
+      id="Nurse Provider"
+      cursor="pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel:::Poppins&quot;"
@@ -1895,21 +1900,25 @@
       transform="translate(38.930542 393.298665)"
       stroke-width="0"
     ><tspan
-        id="taskmodel-tspan33"
+        id="Nurse Provider"
+        cursor="pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Nurse -]]></tspan><tspan
-        id="taskmodel-tspan34"
+        id="Nurse Provider"
+        cursor="pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[Provider  ]]></tspan></text></g><g
+      ><![CDATA[Provider  ]]></tspan></text></g>
+      <g
     id="taskmodel-nurse-nurse"
     transform="translate(247.441093 35.710182)"
   ><rect
-      id="taskmodel-nurse-nurse2"
+      id="SHIt"
+      cursor="pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
