@@ -1345,7 +1345,7 @@
         y="35"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[ Intervention  ]]></tspan></text><rect></g><g
+      ><![CDATA[ Intervention  ]]></tspan></text></g><g
     id="Existing Treatment"
     cursor = "pointer"
     transform="translate(1374.185809 260.729658)"
