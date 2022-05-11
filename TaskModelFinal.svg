@@ -887,7 +887,7 @@
       transform="matrix(.007786 1.401331-.554672 0.003082 527.485618 222.82479)"
       stroke-width="0"
     /></g><g
-    `id="Assessment"
+    id="Assessment"
     cursor="pointer"
     transform="translate(480.181015 20.4431)"
   ><text
@@ -952,7 +952,7 @@
         y="0"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[Stabilization ]]></tspan></text></g><g
+      ><![CDATA[Stabilization ]]></tspan></text><rect/></g><g
     id="General"
     cursor = "pointer"
     transform="translate(-266.508661 143.590202)"
@@ -1178,7 +1178,7 @@
         y="35"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[ Intervention  ]]></tspan></text></g><g
+      ><![CDATA[ Intervention  ]]></tspan></text><rect/></g><g
     id="Synthesize"
     cursor = "pointer"
     transform="translate(395.050646 260.9266)"
@@ -1225,7 +1225,7 @@
         y="70"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[ ]]></tspan></text></g><g
+      ><![CDATA[ ]]></tspan></text><rect/></g><g
     id="Clinical Procedures"
     cursor = "pointer"
     transform="translate(-377.829564 268.282524)"
@@ -1305,7 +1305,7 @@
         y="35"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[    Progress  ]]></tspan></text></g><g
+      ><![CDATA[    Progress  ]]></tspan></text><rect/></g><g
     id="Evaluate Intervention"
     cursor = "pointer"
     transform="translate(572.354175 133.434768)"
@@ -1345,7 +1345,7 @@
         y="35"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[ Intervention  ]]></tspan></text></g><g
+      ><![CDATA[ Intervention  ]]></tspan></text><rect/></g><g
     id="Existing Treatment"
     cursor = "pointer"
     transform="translate(1374.185809 260.729658)"
@@ -1418,7 +1418,7 @@
         y="0"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[Treatment ]]></tspan></text></g><g
+      ><![CDATA[Treatment ]]></tspan></text><rect/></g><g
     id="Information Gathering"
     cursor = "pointer"
     transform="translate(-39.801289 24.263751)"
@@ -1498,7 +1498,7 @@
         y="0"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[Intervention ]]></tspan></text></g><g
+      ><![CDATA[Intervention ]]></tspan></text><rect/></g><g
     id="intervention-treatment"
     cursor = "pointer"
     transform="matrix(.298172 0.490019-.854277 0.519819 1546.601645-219.366607)"
@@ -2067,7 +2067,6 @@
   ><rect
           id="Nurse Nurse"
     cursor = "pointer"
-      cursor="pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -2224,7 +2223,7 @@
         y="25"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[Infusion  ]]></tspan></text></g><g
+      ><![CDATA[Infusion  ]]></tspan></text><rect/></g><g
     id="Call Provider"
     cursor = "pointer"
     transform="translate(1559.807287 118.382599)"
@@ -2263,7 +2262,7 @@
         y="25"
         font-weight="400"
         stroke-width="0"
-      ><![CDATA[Provider  ]]></tspan></text></g><g
+      ><![CDATA[Provider  ]]></tspan></text><rect/></g><g
     id="Current Treatment"
     cursor = "pointer"
     transform="translate(266.070044 126.374944)"
