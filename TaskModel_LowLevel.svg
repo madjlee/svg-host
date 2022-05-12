@@ -411,10 +411,10 @@
       transform="matrix(.007786 1.401331-.554672 0.003082 527.485618 222.82479)"
       stroke-width="0"
     /></g><g
-    id="taskmodel_lowlevel-new-treatment"
+    id="New Treatment"
     transform="translate(1183.394415 260.729658)"
   ><text
-      id="taskmodel_lowlevel-new-treatment2"
+      id="New Treatment"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -424,18 +424,21 @@
       filter="url(#taskmodel_lowlevel-new-treatment2-filter)"
       stroke-width="0"
     ><tspan
-        id="taskmodel_lowlevel-tspan1"
+        id="New Treatment"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[        New]]></tspan><tspan
-        id="taskmodel_lowlevel-tspan2"
+        id="New Treatment"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ Treatment  ]]></tspan></text><rect
-      id="taskmodel_lowlevel-new-treatment3"
+      id="New Treatment"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -446,10 +449,12 @@
       stroke-width="2"
       stroke-miterlimit="3"
     /></g><g
-    id="taskmodel_lowlevel-stop-clinical-procedure"
+    id="Stop Clinical Procedure"
+    cursor = "pointer"
     transform="translate(978.721587 261.36513)"
   ><text
-      id="taskmodel_lowlevel-stop-clinical-procedure2"
+      id="Stop Clinical Procedure"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -459,18 +464,21 @@
       filter="url(#taskmodel_lowlevel-stop-clinical-procedure2-filter)"
       stroke-width="0"
     ><tspan
-        id="taskmodel_lowlevel-tspan3"
+        id="Stop Clinical Procedure"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Stop Clinical]]></tspan><tspan
-        id="taskmodel_lowlevel-tspan4"
+        id="Stop Clinical Procedure"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[  Procedure]]></tspan></text><rect
-      id="taskmodel_lowlevel-stop-clinical-procedure3"
+      id="Stop Clinical Procedure"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -482,9 +490,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Start Clinical Procedure"
+    cursor = "pointer"
     transform="translate(795.609768 260.729658)"
   ><text
       id="Start Clinical Procedure"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -495,17 +505,20 @@
       stroke-width="0"
     ><tspan
         id="Start Clinical Procedure"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Start Clinical]]></tspan><tspan
         id="Start Clinical Procedure"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[  Procedure]]></tspan></text><rect
       id="Start Clinical Procedure"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -517,9 +530,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Synthesize"
+    cursor = "pointer"
     transform="translate(395.050646 260.9266)"
   ><rect
       id="Synthesize"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -531,6 +546,7 @@
       stroke-miterlimit="3"
     /><text
       id="Synthesize"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -541,26 +557,31 @@
       stroke-width="0"
     ><tspan
         id="Synthesize"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[   Synthesize]]></tspan><tspan
         id="Synthesize"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[  Information]]></tspan><tspan
         id="Synthesize"
+        cursor = "pointer"
         x="0"
         y="70"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ ]]></tspan></text></g><g
     id="Clinical Procedures"
+    cursor = "pointer"
     transform="translate(-377.829564 268.282524)"
   ><text
       id="Clinical Procedures"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -571,17 +592,20 @@
       stroke-width="0"
     ><tspan
         id="Clinical Procedures"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[     Clinical]]></tspan><tspan
         id="Clinical Procedures"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[  Procedures  ]]></tspan></text><rect
       id="Clinical Procedures"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -593,9 +617,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Monitor Progress"
+    cursor = "pointer"
     transform="translate(569.559757 260.9266)"
   ><rect
       id="Monitor Progress"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -607,6 +633,7 @@
       stroke-miterlimit="3"
     /><text
       id="Monitor Progress"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -617,20 +644,24 @@
       stroke-width="0"
     ><tspan
         id="Monitor Progress"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[      Monitor]]></tspan><tspan
         id="Monitor Progress"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[    Progress  ]]></tspan></text></g><g
     id="Existing Treatment"
+    cursor = "pointer"
     transform="translate(1374.185809 260.729658)"
   ><text
       id="Existing Treatment"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -641,17 +672,20 @@
       stroke-width="0"
     ><tspan
         id="Existing Treatment"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[      Existing]]></tspan><tspan
         id="Existing Treatment"
+        cursor = "pointer"
         x="0"
         y="35"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ Treatment  ]]></tspan></text><rect
       id="Existing Treatment"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -861,9 +895,11 @@
       stroke-width="0"
     /></g><g
     id="Vital Signs"
+    cursor = "pointer"
     transform="translate(72.045706 61.51288)"
   ><rect
       id="Vital Signs"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -875,6 +911,7 @@
       stroke-miterlimit="3"
     /><text
       id="Vital Signs"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -884,20 +921,24 @@
       stroke-width="0"
     ><tspan
         id="Vital Signs"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Vital ]]></tspan><tspan
         id="Vital Signs"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ Signs ]]></tspan></text></g><g
     id="Physical Exam"
+    cursor = "pointer"
     transform="translate(-36.190323 61.643558)"
   ><rect
       id="Physical Exam"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -909,6 +950,7 @@
       stroke-miterlimit="3"
     /><text
       id="Physical Exam"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -918,20 +960,24 @@
       stroke-width="0"
     ><tspan
         id="Physical Exam"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Physical ]]></tspan><tspan
         id="Physical Exam"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[    Exam ]]></tspan></text></g><g
     id="Nurse Provider"
+    cursor = "pointer"
     transform="translate(332.184177 118.382603)"
   ><rect
       id="Nurse Provider"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -952,20 +998,24 @@
       stroke-width="0"
     ><tspan
         id="Nurse Provider"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Nurse -]]></tspan><tspan
         id="Nurse Provider"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Provider  ]]></tspan></text></g><g
     id="Nurse Nurse"
+    cursor = "pointer"
     transform="translate(247.441093 35.710182)"
   ><rect
       id="Nurse Nurse"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -977,6 +1027,7 @@
       stroke-miterlimit="3"
     /><text
       id="Nurse Nurse"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -986,20 +1037,24 @@
       stroke-width="0"
     ><tspan
         id="Nurse Nurse"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Nurse -]]></tspan><tspan
         id="Nurse Nurse"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Nurse  ]]></tspan></text></g><g
     id="Nurse Patient"
+    cursor = "pointer"
     transform="translate(187.850945 118.382599)"
   ><rect
       id="Nurse Patient"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -1011,6 +1066,7 @@
       stroke-miterlimit="3"
     /><text
       id="Nurse Patient"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1020,20 +1076,24 @@
       stroke-width="0"
     ><tspan
         id="Nurse Patient"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Nurse -]]></tspan><tspan
         id="Nurse Patient"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Patient  ]]></tspan></text></g><g
     id="Patient History"
+    cursor = "pointer"
     transform="translate(434.399171 38.261104)"
   ><rect
       id="Patient History"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -1045,6 +1105,7 @@
       stroke-miterlimit="3"
     /><text
       id="Patient History"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1054,26 +1115,31 @@
       stroke-width="0"
     ><tspan
         id="Patient History"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[  Patient]]></tspan><tspan
         id="Patient History"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ History]]></tspan><tspan
         id="Patient History"
+        cursor = "pointer"
         x="0"
         y="50"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ ]]></tspan></text></g><g
     id="Stop Infusion"
+    cursor = "pointer"
     transform="translate(1357.644646 36.901895)"
   ><rect
       id="Stop Infusion"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -1085,6 +1151,7 @@
       stroke-miterlimit="3"
     /><text
       id="Stop Infusion"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1094,20 +1161,24 @@
       stroke-width="0"
     ><tspan
         id="Stop Infusion"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[   Stop]]></tspan><tspan
         id="Stop Infusion"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Infusion  ]]></tspan></text></g><g
     id="Call Provider"
+    cursor = "pointer"
     transform="translate(1559.807287 118.382599)"
   ><rect
       id="Call Provider"
+      cursor = "pointer"
       width="67.133652"
       height="60.28328"
       rx="5"
@@ -1119,6 +1190,7 @@
       stroke-miterlimit="3"
     /><text
       id="Call Provider"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1128,20 +1200,24 @@
       stroke-width="0"
     ><tspan
         id="Call Provider"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[    Call]]></tspan><tspan
         id="Call Provider"
+        cursor = "pointer"
         x="0"
         y="25"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Provider  ]]></tspan></text></g><g
     id="Current Treatment"
+    cursor = "pointer"
     transform="translate(266.070044 126.374944)"
   ><text
       id="Current Treatment"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1151,17 +1227,20 @@
       stroke-width="0"
     ><tspan
         id="Current Treatment"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[    Current]]></tspan><tspan
         id="Current Treatment"
+        cursor = "pointer"
         x="0"
         y="24"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Treatment  ]]></tspan></text><rect
       id="Current Treatment"
+      cursor = "pointer"
       width="125"
       height="68.5"
       rx="5"
@@ -1173,9 +1252,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="New Intervention"
+    cursor = "pointer"
     transform="translate(422.487206 143.496439)"
   ><text
       id="New Intervention"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1185,17 +1266,20 @@
       stroke-width="0"
     ><tspan
         id="New Intervention"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[       New]]></tspan><tspan
         id="New Intervention"
+        cursor = "pointer"
         x="0"
         y="22"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Intervention  ]]></tspan></text><rect
       id="New Intervention"
+      cursor = "pointer"
       width="135"
       height="68.5"
       rx="5"
@@ -1207,9 +1291,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Continue Intervention"
+    cursor = "pointer"
     transform="translate(566.077858 143.496439)"
   ><text
       id="Continue Intervention"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1219,17 +1305,20 @@
       stroke-width="0"
     ><tspan
         id="Continue Intervention"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[   Continue]]></tspan><tspan
         id="Continue Intervention"
+        cursor = "pointer"
         x="0"
         y="22"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Intervention  ]]></tspan></text><rect
       id="Continue Intervention"
+      cursor = "pointer"
       width="135"
       height="68.5"
       rx="5"
@@ -1241,9 +1330,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Medication"
+    cursor = "pointer"
     transform="translate(854.235023 206.5)"
   ><text
       id="Medication"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1253,11 +1344,13 @@
       stroke-width="0"
     ><tspan
         id="Medication"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Medication ]]></tspan></text><rect
       id="Medication"
+      cursor = "pointer"
       width="135"
       height="68.5"
       rx="5"
@@ -1269,9 +1362,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Medication"
+    cursor = "pointer"
     transform="translate(1396.444942 206.496439)"
   ><text
       id="Medication"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1281,11 +1376,13 @@
       stroke-width="0"
     ><tspan
         id="Medication"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Medication ]]></tspan></text><rect
       id="Medication"
+      cursor = "pointer"
       width="135"
       height="68.5"
       rx="5"
@@ -1297,9 +1394,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Other Procedure"
+    cursor = "pointer"
     transform="translate(1541.138694 213.542755)"
   ><text
       id="Other Procedure"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1309,17 +1408,20 @@
       stroke-width="0"
     ><tspan
         id="Other Procedure"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[     Other]]></tspan><tspan
         id="Other Procedure"
+        cursor = "pointer"
         x="0"
         y="24"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Procedure]]></tspan></text><rect
       id="Other Procedure"
+      cursor = "pointer"
       width="129.988598"
       height="68.5"
       rx="5"
@@ -1331,9 +1433,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Stop Intervention"
+    cursor = "pointer"
     transform="translate(710.770332 143.496439)"
   ><text
       id="Stop Intervention"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1343,17 +1447,20 @@
       stroke-width="0"
     ><tspan
         id="Stop Intervention"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[        Stop]]></tspan><tspan
         id="Stop Intervention"
+        cursor = "pointer"
         x="0"
         y="22"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[Intervention  ]]></tspan></text><rect
       id="Stop Intervention"
+      cursor = "pointer"
       width="135"
       height="68.5"
       rx="5"
@@ -1365,9 +1472,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Resuscitation"
+    cursor = "pointer"
     transform="translate(996.364437 206.5)"
   ><text
       id="Resuscitation"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1377,11 +1486,13 @@
       stroke-width="0"
     ><tspan
         id="Resuscitation"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[        Resuscitation  ]]></tspan></text><rect
       id="Resuscitation"
+      cursor = "pointer"
       width="150"
       height="68.5"
       rx="5"
@@ -1393,9 +1504,11 @@
       stroke-miterlimit="3"
     /></g><g
     id="Not In Model"
+    cursor = "pointer"
     transform="translate(.310298 63.854048)"
   ><rect
       id="Not In Model"
+      cursor = "pointer"
       width="113.805386"
       height="77.102312"
       rx="5"
@@ -1406,6 +1519,7 @@
       stroke-width="4"
     /><text
       id="Not In Model"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1415,20 +1529,24 @@
       stroke-width="0"
     ><tspan
         id="Not In Model"
+        cursor = "pointer"
         y="0"
         font-weight="700"
         stroke-width="0"
       ><![CDATA[Not in ]]></tspan><tspan
         id="Not In Model"
+        cursor = "pointer"
         x="0"
         y="30"
         font-weight="700"
         stroke-width="0"
       ><![CDATA[model  ]]></tspan></text></g><g
     id="Patient Chart"
+    cursor = "pointer"
     transform="translate(108.916507 266.004852)"
   ><rect
       id="Patient Chart"
+      cursor = "pointer"
       width="163.567962"
       height="55.759565"
       rx="5"
@@ -1440,6 +1558,7 @@
       stroke-miterlimit="3"
     /><text
       id="Patient Chart"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1450,14 +1569,17 @@
       stroke-width="0"
     ><tspan
         id="Patient Chart"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
       ><![CDATA[ Patient Chart  ]]></tspan></text></g><g
     id="Discourse"
+    cursor = "pointer"
     transform="translate(-135.435707 268.282533)"
   ><rect
       id="Discourse"
+      cursor = "pointer"
       width="160.647106"
       height="55.759565"
       rx="5"
@@ -1469,6 +1591,7 @@
       stroke-miterlimit="3"
     /><text
       id="Discourse"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_lowlevel:::Poppins&quot;"
@@ -1479,6 +1602,7 @@
       stroke-width="0"
     ><tspan
         id="Discourse"
+        cursor = "pointer"
         y="0"
         font-weight="400"
         stroke-width="0"
