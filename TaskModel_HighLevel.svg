@@ -699,8 +699,9 @@
       points="-18.507763,-34.690394 -6.972763,5.309606 -30.042763,5.309606 -18.507763,-34.690394"
       transform="matrix(.007786 1.401331-.554672 0.003082 527.485618 222.82479)"
       stroke-width="0"
-    /></g><g id="taskmodel_highlevel-not-in-model"><rect
-      id="taskmodel_highlevel-not-in-model2"
+    /></g><g id="Not In Model"><rect
+      id="Not In Model"
+      cursor = "pointer"
       width="113.805386"
       height="77.102312"
       rx="5"
@@ -710,7 +711,8 @@
       stroke="#e12f2f"
       stroke-width="4"
     /><text
-      id="taskmodel_highlevel-not-in-model3"
+      id="Not In Model"
+      cursor = "pointer"
       dx="0"
       dy="0"
       font-family="&quot;taskmodel_highlevel:::Poppins&quot;"
@@ -719,12 +721,14 @@
       transform="translate(1838.995683 135.537354)"
       stroke-width="0"
     ><tspan
-        id="taskmodel_highlevel-tspan14"
+        id="Not In Model"
+        cursor = "pointer"
         y="0"
         font-weight="700"
         stroke-width="0"
       ><![CDATA[Not in ]]></tspan><tspan
-        id="taskmodel_highlevel-tspan15"
+        id="Not In Model"
+        cursor = "pointer"
         x="0"
         y="30"
         font-weight="700"
