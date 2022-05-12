@@ -699,7 +699,9 @@
       points="-18.507763,-34.690394 -6.972763,5.309606 -30.042763,5.309606 -18.507763,-34.690394"
       transform="matrix(.007786 1.401331-.554672 0.003082 527.485618 222.82479)"
       stroke-width="0"
-    /></g><g id="Not In Model"><rect
+    /></g><g id="Not In Model"
+    cursor = "pointer"
+    ><rect
       id="Not In Model"
       cursor = "pointer"
       width="113.805386"
